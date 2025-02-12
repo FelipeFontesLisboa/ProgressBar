@@ -15,4 +15,4 @@ function iniciarBarraDeProgresso(duracao) {
         }
     }
 }
-iniciarBarraDeProgresso(5);
+iniciarBarraDeProgresso(10);
